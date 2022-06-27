@@ -15,6 +15,7 @@ One of the reasons why this code was refactored was to decrease the execution ti
 
 ![VBA_Challenge_2017](https://github.com/Mparra14/Stock-Analysis/blob/main/Resources/VBA_Challenge_%202017.png)
 
+![VBA_Challenge_2018](https://github.com/Mparra14/Stock-Analysis/blob/main/Resources/VBA_Challenge_%202018.png)
 
 ## Summary
 *
