@@ -4,7 +4,7 @@ The main purpose for this project was to help Steve analyze various stocks to he
 In order to make the original code more effective we have refactored the code for it work more efficiently provided more data is collected, the code can be reused and it may help with the execution time of each year. 
 ## Results 
 In our code, we refactored it by creating an index variable that would be able to go through all arrays, this helps the code become more efficient since it now has an index that is able to decrease the speed of locating the array and data in each array. Please see below for our newly improved code. 
-![VBA_Challenge_Code](Resources/VBA_Challenge_Code.png)
+![VBA_Challenge_Code]([Resources/VBA_Challenge_Code.png](https://github.com/Mparra14/Stock-Analysis/blob/main/Resources/VBA-Challenge_Code.png))
 
 
 
