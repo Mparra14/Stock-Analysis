@@ -5,6 +5,7 @@ In order to make the original code more effective we have refactored the code fo
 ## Results 
 In our code, we refactored it by creating an index variable that would be able to go through all arrays, this helps the code become more efficient since it now has an index that is able to decrease the speed of locating the array and data in each array. Please see below for our newly improved code. 
 ![Resources/VBA_Challenge_Code.png](https://github.com/Mparra14/Stock-Analysis/blob/main/Resources/VBA-Challenge_Code.png)
+![Resources/VBA_Challenge_Code II.png](https://github.com/Mparra14/Stock-Analysis/blob/main/Resources/VBA_Challenge_%20Code%20II.png)
 
 
 
